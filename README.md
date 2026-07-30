@@ -2,6 +2,7 @@
 
 I'm currently open for commission work — see [Contact](#contact) below.
 
+Based in MST (Mountain Time, US)
 ---
 
 ## My typical workflow/knowledge:
@@ -56,5 +57,3 @@ Available for commission-based Roblox development work.
 
 - **Discord:** Airolua || User ID: 1076002396766994462
 - **Email:** Charliesmarter19@gmail.com
-
-    Based in MST (Mountain Time, US)
