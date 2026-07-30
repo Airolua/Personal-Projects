@@ -4,7 +4,7 @@ I'm currently open for commission work — see [Contact](#contact) below.
 
 ---
 
-## My typical workflow:
+## My typical workflow/knowledge:
 
 - **Language:** Luau, some C++
 - **Tooling:** [Rojo](https://rojo.space/) (filesystem → Studio sync), [Wally](https://wally.run/) (package management), Or just Roblox studio.
