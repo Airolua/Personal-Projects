@@ -12,7 +12,7 @@ I'm currently open for commission work — see [Contact](#contact) below.
 
 ---
 
-## Projects
+## Most Notable Projects
 
 | Project | Description | Highlights | Status |
 |---|---|---|---|
