@@ -1,8 +1,8 @@
 # Roblox Studio Projects
 
 I'm currently open for commission work — see [Contact](#contact) below.
-
 Based in MST (Mountain Time, US)
+
 ---
 
 ## My typical workflow/knowledge:
