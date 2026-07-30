@@ -4,7 +4,7 @@ I'm currently open for commission work — see [Contact](#contact) below.
 
 ---
 
-## Tech Stack
+## My typical workflow:
 
 - **Language:** Luau, some C++
 - **Tooling:** [Rojo](https://rojo.space/) (filesystem → Studio sync), [Wally](https://wally.run/) (package management), Or just Roblox studio.
@@ -24,7 +24,7 @@ I'm currently open for commission work — see [Contact](#contact) below.
 
 ## Project Structure
 
-Most projects in this repo follow a similar layout:
+Most projects in this repo will follow a similar layout:
 
 ```
 project-name/
@@ -45,6 +45,8 @@ project-name/
 2. Install [Rojo](https://rojo.space/docs/installation/) and [Wally](https://github.com/UpliftGames/wally#installation)
 3. From a project's directory, run `wally install` to pull dependencies
 4. Run `rojo serve` and connect via the Rojo Studio plugin
+
+(If you want to just import this into Roblox Studio, you can download the rbxl files provided next to the projects and simply open the file in Studio.)
 
 ---
 
